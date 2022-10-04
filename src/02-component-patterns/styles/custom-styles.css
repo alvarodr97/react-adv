@@ -22,3 +22,8 @@
     color: wheat;
 }
 
+.shopping-cart {
+    position: fixed;
+    right: 2px;
+    top: 0px;
+}
